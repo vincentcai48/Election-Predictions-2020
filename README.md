@@ -1,4 +1,4 @@
-#Election Predictions 2020
+# Election Predictions 2020
 
 By Vincent Cai. Any unauthorized use of this code is prohibited
 
